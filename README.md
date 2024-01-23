@@ -3,5 +3,5 @@
 ## Covers: 
 ### Exercise A (Creating a repository)
 ### Exercise B (Working with images)
-### Exercise C (CWorking with text-related tags)
+### Exercise C (Working with text-related tags)
 ### Exercise D (Linking pages)
